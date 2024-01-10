@@ -1,4 +1,4 @@
-cask "aye-player-develop" do
+cask "aye-player" do
   version "0.9.3"
   sha256 "c2c8cf6ed48020cfa60d4bcead0d55dab65c29237065ee6df82ef431c0832185"
 
