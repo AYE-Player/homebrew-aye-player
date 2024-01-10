@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install aye-player/aye-player/<formula>`
+`brew install aye-player/tap/<formula>`
 
-Or `brew tap aye-player/aye-player` and then `brew install <formula>`.
+Or `brew tap aye-player/tap` and then `brew install <formula>`.
 
 ## Documentation
 
