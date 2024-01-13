@@ -1,6 +1,6 @@
 cask "aye-player" do
-  version "0.9.5"
-  sha256 "2d5fa8cb84248b2c2fc9d577a5a27fe36507f0f21c3363907f64965dc5fb9017"
+  version "0.9.6"
+  sha256 "096c53341ce7c26c9d02a012a0da2f47fa4f8dd0963d47b8180d687c546bd5ae"
 
   url "https://github.com/AYE-Player/aye-player/releases/download/v#{version}/aye-player-#{version}-arm64.dmg"
   name "Aye-Player"
