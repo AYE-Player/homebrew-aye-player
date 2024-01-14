@@ -7,7 +7,7 @@ cask "aye-player" do
   desc "New Youtube Music Player to deliver you the best experience possible"
   homepage "https://github.com/AYE-Player/aye-player"
 
-  auto_updates true
+  auto_updates false
   depends_on arch: :arm64
   depends_on macos: ">= :monterey"
 
