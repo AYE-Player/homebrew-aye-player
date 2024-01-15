@@ -19,7 +19,7 @@ jobs:
         with:
           token                           	: ${{ secrets.GH_TOKEN }}
           merge-method                    	: merge
-          pull-request-author-associations	: OWNER
+          pull-request-author-associations	: CONTRIBUTOR
           # required-labels               	: automerge
           do-not-merge-labels             	: never-merge
           # dry-run                       	: true
